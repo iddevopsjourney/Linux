@@ -1,9 +1,9 @@
 # Linux
-### Pengenalan
-### Linux Command Line
-### Konsep Dasar Linux
-### Package Management
-### Security and File Permissions
-### Networking
-### Storage in Linux
-### Service Management with SYSTEMD
+### 01-Pengenalan
+### 02-Linux Command Line
+### 03-Konsep Dasar Linux
+### 04-Package Management
+### 05-Security and File Permissions
+### 06-Networking
+### 07-Storage in Linux
+### 08-Service Management with SYSTEMD
