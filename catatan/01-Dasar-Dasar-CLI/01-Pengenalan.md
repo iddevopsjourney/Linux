@@ -1,4 +1,13 @@
-# Dasar - dasar CLI
+# Perintah/command CLI di Linux - Part 1
 
-### Linux Shell
-Dalam daily activity-nya seorang administrator akan sering menggunakan **`linux shell`**.
+### Pengenalan Linux Command Line
+
+
+
+#### Linux Shell
+
+Dalam daily activity-nya seorang administrator linux akan sering menggunakan **`linux shell`**.
+
+####
+
+
